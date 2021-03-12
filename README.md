@@ -1,6 +1,6 @@
 # Fintech_Homework
 
-CoinBase
+# CoinBase
 Coinbase is a digital currency exchange where you can buy and sell crypto currencies also where you can invest, trade, and store your various cryptocurrencies. Coinbase is the largest crypto exchange in the United States by Volume. Coinbase is available in 32 developed countries.  The company started with the goal in mind that anyone anywhere can easily and safely send and receive crypto currencies. The company is broken down into 2 parts the broker exchange and trading platform itself. Unlike other companies in the crypto atmosphere Coinbase is registered and recognized by several governments and hold to the legal licences to operate. Coinbase was incorporated June 2012 San Francisco California and was founded by Brian Armstrong a former Airbnb engineer and Fred Ehrsam a former Goldman Sachs trader. When Coinbase was first being created Ben Reeves was also part of the initial creation of the company but soon left due to their different stands on how the Coinbase wallet should operate. 
 
 The Company has been well funded over the years will several investments: 
