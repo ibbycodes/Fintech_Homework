@@ -14,50 +14,85 @@ The Company has been well funded over the years will several investments:
 ## Business Activities:
 
 * What specific financial problem is the company or project trying to solve?
-The company is a digital currency exchange Coinbase offers a wide variety of products including cryptocurrency investing, an advanced trading platform, custodial accounts for institutions, a wallet for retail investors, and its own U.S. dollar stable-coin.
+  
+This company is trying to build a fair, accessible, efficient and transparent financial system. They believe that anyone should be able to send and receive bitcoins easily and securely and they are providing a platform that does exactly that in a market where not many platforms like this exists. Coinbase does this through digital currency exchange which offers a wide variety of products including cryptocurrency investing, an advanced trading platform, custodial accounts for institutions, a wallet for retail investors, and its own U.S. dollar stable-coin. 
+
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+The company’s intended customer is any customer that holds or wants to own cryptocurrency. Their niche is beginner crypto investors who are just getting into the market and would like a safe and reliable place to invest regardless of cost.
+ 
+Market Size:
+·      43 Million verified users
+·      7,000 institutions
+·      115,000 ecosystem partners over 100 countries
+ 
+
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
 Solid variety of altcoin choices: Coinbase offers over 25 cryptocurrencies for investment, trading, and also staking.
 •  Extremely simple user interface: Coinbase is perhaps one of the easiest on-ramps to crypto investing. It is easy to sign up and buy cryptocurrencies within a matter of minutes. It also has a learning program that pays users cryptocurrency to learn more about how cryptocurrency works. 
-•  High liquidity: Coinbase consistently ranks among highly liquid exchanges. This protects the investor from serious price slippage in an already volatile market.
+•  High liquidity: Coinbase consistently ranks among highly liquid exchanges. This protects the investor from serious price slippage in an already volatile market.**
 
 insurance in the event that Coinbase itself is breached
 its features, like its learn program and the ability to easily set up recurring purchases, provide the inexperienced with a clear path to becoming invested and actually understanding cryptocurrency.
+
+
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+* Application and Data
+·      NGINX
+·      CloudFlare
+·      Ruby
+·      Rails
+·      D3.js
+·      IronMQ
+Utilities 
+·      Google Analytics
+·      Amazon SES
+·      Mixpanel
+·      Authy
+·      HackerOne
+·      BlockScore
+DevOps
+·      New Relic
+·      CircleCI
+·      Bugsnag
+·      GeoEngineer
+Business Tools
+·      G Suite
+·      Olark**
 
 
 ## Landscape:
 
-* What domain of the financial industry is the company in?
-Digital exchange 
+The company has
+Acquired blockchain explorer Blockr
+Web bookmarking Kippt
+Has insurance for all the value of different cryptos on their servers 
+Has partnered with Dell 
+Added bitcoin to the company Stripe
+Created of the largest crypto markets available 
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-The company started off small In 2014, the company grew to one million users, acquired the blockchain explorer service Blockr and the web bookmarking company Kippt, secured insurance covering the value of bitcoin stored on their servers, and launched the vault system for secure bitcoin storage.[13][14][15] Throughout 2014, the company also partnered with Overstock, Dell, Expedia, Dish Network, and Time Inc. allowing those firms to accept bitcoin payments.[16][17][18][19] The company also added bitcoin payment processing capabilities[when?] to the traditional payment companies Stripe, Braintree, and PayPal.[20] 
 
 * What are the other major companies in this domain?
+- Binance 
+- Bybit
+- FTX
+- CoinMama
+- CexKraken
+- ChangeNow
 
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-13.3M active users
+Business impact so far includes 7,000 institutions, and 115,000 ecosystem partners in over 100 countries.Core metrics include; Be the most trusted and be the easiest to use. According to their core metrics, this company is performing well due to their extremely simple user interface and their reliability reputation in the cryptomarket. As compared to its competitors coinbase boast 13.3M active users. There are other alternatives but Coinbase does well in their niche market which is for beginner crypto investors due to their intuitive, easy-to-understand buying options as well as learning options. 
 
 
 ## Recommendations
+ 
+The market is not available in all countries particularly in countries that are not classified as first world which is ironic considering the people who could benefit the most from crypto currencies are ones in countries where the fiat currency is unreliable and the political powers are straining the economy. I think this is where crypto shines the brightest as a way to have a stable currency which also has the safety of not being in government owned banks or in the form of cash. I would highly advise coinbase and all other crypto exchanged to really think about the impact they could have on these countries. The benefit to the company of course would be potentially millions of additional users and may even be adopted by some countries as they become stable or economically more fit. In those countries Coinbase may even have some refuge in taxes. 
+ 
+Also as I have read online the main concern with a lot of customers is the high fees understandably for insurance cost and also for the business model the fees are put in place. However coinbase should look into alternatives and cost cutting methods that may allow people to pay lesser fees with smaller coins. 
+ 
+Finally, continuously update the GUI to make things as easy and seamless as can be. 
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-•	- Not available in all countries
-•	- Some of the less-known coins aren't supported
-✗ Higher-than-average fees;
-
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
 
